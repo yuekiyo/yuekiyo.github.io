@@ -1,3 +1,7 @@
 theme: jekyll-theme-minimal
 title: kiyo's white blossom paper 
 description: ☁️
+
+layout: page
+title: "base.css"
+permalink: https://github.com/yuekiyo/yuekiyo.github.io/blob/1d22b2a0ca8f538a538e9a405efa77759eb51530/base.css

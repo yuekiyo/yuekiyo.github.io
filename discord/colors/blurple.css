@@ -50,10 +50,10 @@
     --control-brand-foreground: hsl(235, 86.1%, 77.5%);
 }
 .theme-dark, .theme-light {
-    --text-link: hsl(235, 100%, 47.8%);
-    --text-link-low-saturation: hsl(235, 100%, 52.9%);
-    --control-brand-foreground-new: hsl(235, 86.1%, 77.5%);
-    --info-help-foreground: hsl(235, 100%, 47.8%);
+    --text-link: hsl(206, 100%, 47.8%);
+    --text-link-low-saturation: hsl(206, 100%, 52.9%);
+    --control-brand-foreground-new: hsl(206, 86%, 77%);
+    --info-help-foreground: hsl(206, 100%, 47.8%);
 }
 .theme-light {
     --blue-button-bg: hsl(235, 100%, 36%);

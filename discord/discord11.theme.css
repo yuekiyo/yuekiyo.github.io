@@ -1,0 +1,57 @@
+/**
+ * @name Discord 11
+ * @description Based in Windows 11 UI
+ * @author Selene#0001
+ * @authorId 150421403319926784
+ * @version 2.2.2
+ * @invite https://discord.gg/koemi
+ * @donate https://www.paypal.me/eshoujo
+ * @website https:github.com/yuekiyo
+ * @source https://github.com/yuekiyo/discord/blob/main/base.css
+*/
+
+/*------------------------------------------------------------
+   Theme Import change styles with base.css or base-old.css
+      you can't disable this, is the full theme dummy
+------------------------------------------------------------*/
+@import url(https://yuekiyo.github.io/discord/base.css);
+
+/*--------------------------------------------------------------
+                             Colors
+---------------------------------------------------------------*/
+/*---Change colors with classic, blue, purple, green, or red.css---*/
+@import url(https://yuekiyo.github.io/discord/colors/blurple.css);
+
+/*-------------------------------------------------------------------------------------------------
+                                        Windows 11 emojis
+--------------------------------------------------------------------------------------------------*/
+@import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/EmojiReplace/base/Microsoft.css);
+
+/*--------------------------------------------------------------
+Message bubble styles [If you don't want any place a /* in all]
+----------------------------------------------------------------*/
+/* Message Bubble in Left Side */
+@import url(https://yuekiyo.github.io/discord/messagebubbleleft.css);
+/* Default Message Bubble */
+/* @import url(https://yuekiyo.github.io/discord/messagebubble11.css); */
+/* New Message Bubble */
+/* @import url(https://yuekiyo.github.io/discord/messagebubblenew.css); */
+
+/*--------------------------------------------------------------
+                           Glass effect
+         [To see your desk put "none" in --wallpaper-is:
+                               and
+               enable Transparency in BD Settings]
+---------------------------------------------------------------*/
+/*--Yes you can enable/disable this--*/
+/* @import url(https://yuekiyo.github.io/discord/glass-effect.css); */
+
+:root {
+    --wallpaper-is: url(https://i0.wp.com/hipertextual.com/wp-content/uploads/2021/06/Windows-11-Wallpaper-1-1-scaled.jpg);
+    --blur-size: 24px;
+    --opacity-thing: 0.6;
+}
+
+/*----------------------------------------------------
+                < ORIGINAL CODE END >
+------------------------------------------------------*/
